@@ -1,0 +1,28 @@
+{
+  "name": "vehicle",
+  "version": "1.0.0",
+  "description": "vehicles insert data",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umupapa/vehicle.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "fati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umupapa/vehicle/issues"
+  },
+  "homepage": "https://github.com/umupapa/vehicle#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0"
+  }
+}
